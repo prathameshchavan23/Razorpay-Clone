@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+nav{
+    background-color: #02042a;
+}
+section{
+    background-color: hwb(237 1% 84%);
+}
