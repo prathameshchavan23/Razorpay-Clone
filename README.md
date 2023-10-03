@@ -12,9 +12,6 @@ To set up the project locally, follow these steps:
 3. Install the dependencies: npm install
 4. Start the development server: npm run start
 
-🖥️ Usage
-Once the development server is up and running, you can access the RazorPay Clone in your browser by visiting http://localhost:3000. Explore the different pages, features, and UI components to get a sense of the clone's capabilities.
-
 🌐 Deployed Version
 You can also check out the deployed version of the RazorPay Clone by visiting:- https://prathamesh-razorpayclone.netlify.app/
 
